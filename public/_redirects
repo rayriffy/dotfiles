@@ -1,0 +1,5 @@
+  
+# Write your redirects here
+# Patterns: /{shorten url} {full url} 302
+
+/ /index.sh 302

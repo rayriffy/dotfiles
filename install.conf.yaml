@@ -1,0 +1,47 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+
+- create:
+  - ~/Documents/Git
+
+- brew:
+  - golang
+  - n
+  - circleci
+  - yarn
+  - thefuck
+  - java
+  - wget
+  - tldr
+  - deno
+
+- cask:
+  - ngrok
+  - mkvtoolnix
+  - anaconda
+  - visual-studio-code
+  - google-chrome
+  - microsoft-edge
+  - discord
+  - teamspeak-client
+  - telegram
+  - 1password
+  - insomnia
+  - obs
+  - notion
+  - steam
+  - openemu
+  - minecraft
+  - iina
+  - gpg-suite
+  - iterm2
+  - tunnelblick
+  - the-unarchiver
+  - intel-power-gadget
+  - altserver
+  - slack
+  - docker
+  - aerial
