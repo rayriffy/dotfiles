@@ -46,6 +46,8 @@
   - slack
   - docker
   - aerial
+  - vanilla
+  - alfred
 
 - shell:
   - description: automatically setup the system environment.
