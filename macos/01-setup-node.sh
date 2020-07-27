@@ -1,4 +1,6 @@
 #!/bin/sh
 
+echo "💻 Installing Node LTS via n"
+
 # Install lts version
-n lts
+sudo n lts
