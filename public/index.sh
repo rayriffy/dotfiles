@@ -9,5 +9,6 @@ echo "✅ Homebrew installed!"
 echo "💻 Starting installation"
 git clone https://github.com/rayriffy/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
+git submodule update --init --recursive .
 ./install
 echo "✅ Setup is complete!"
